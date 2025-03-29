@@ -1,0 +1,6 @@
+False Positives:
+     The script may produce false positives, as legitimate applications may have similar names to known keyloggers.
+Limited Detection:
+     This script is a basic implementation and may not detect all keyloggers, especially those that are well-hidden or use advanced techniques.
+Platform Specific:
+     The provided script is designed for Windows. For other operating systems, the approach would differ significantly.
