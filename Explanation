@@ -1,0 +1,3 @@
+Process Checking: The script uses psutil to iterate through running processes and checks if any of them match a predefined list of suspicious process names. This list can be expanded based on known keyloggers.
+Keyboard Hook Checking: The check_keyboard_hooks function is a placeholder. Detecting keyboard hooks accurately requires more advanced techniques, such as enumerating hooks and checking their properties, which can be complex and may require deeper system access.
+Output: The script outputs any detected suspicious processes and whether any keyboard hooks were found.
